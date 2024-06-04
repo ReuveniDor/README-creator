@@ -1,6 +1,6 @@
 # README Creator
 
-This file was made with README creator
+This file was made with the help of README creator
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ This file was made with README creator
 ## Project Description
 
 This project provides a tool to automatically generate README.md files for Python projects.
-The tool extracts function headers and their docstrings (or preceding comments if no docstring) from a given Python file, and uses a model to create the README content.
+The tool extracts function headers and their docstrings (or preceding comments if no docstring) from a given Python file, and uses google AI model to create the README content.
 
 ## How to Run the Project
 
