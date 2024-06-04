@@ -23,7 +23,7 @@ To run the project, you can use the following steps:
 3. Run the following command:
 
 ```
-python README_creator.py path/to/python_file.py
+python README_creator.py python_file.py
 ```
 
 ## Badges
